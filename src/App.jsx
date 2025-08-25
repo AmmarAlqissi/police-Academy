@@ -5,7 +5,7 @@ const ACADEMY_LOGO = "https://www.raed.net/img?id=1410950";
 
 // 🔵 ويب هوك الديسكورد
 const DISCORD_WEBHOOK_URL =
-  "https://discord.com/api/webhooks/1409580256569987243/994qncfO-fnPDUGkwBx9gP0_Yi_5zyPSWc0gknysNGPS9pS_EQv-QIon-wWotBH1WYvp";
+  "https://discord.com/api/webhooks/1409622930647683235/CtNF-4hK9O0n1UzmFzjSmGXxSnW2tDp3uRwXNtIceX3Ynl7tfP8m-iuS-CcO7XgyW3Zc";
 
 export default function App() {
   const [appId] = useState(() =>
